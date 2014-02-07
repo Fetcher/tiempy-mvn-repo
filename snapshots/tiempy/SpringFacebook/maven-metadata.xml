@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>tiempy</groupId>
+  <artifactId>SpringFacebook</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140207142002</lastUpdated>
+  </versioning>
+</metadata>
